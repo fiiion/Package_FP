@@ -18,7 +18,15 @@ hello <- function() {
 }
 
 
-# attempting to generalize an algorithm used in my final project
+#### attempting to generalize an algorithm used in my final project
 
-## inputs: census data, boundaries
-# let me move this to its own script!
+# this function will take in the inputs of census data (at whatever level) and
+# (preferably) city boundaries. Then it will crop the data to the boundaries.
+
+
+# step 1: setting the CRS -------------------------------------
+city_census_data <- funtion(census, bounds) {  ## census == census data, bounds == boundaries (shp., etc)
+
+
+
+}
