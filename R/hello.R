@@ -17,4 +17,8 @@ hello <- function() {
   print("Hello, world!")
 }
 
-# something new
+
+# attempting to generalize an algorithm used in my final project
+
+## inputs: census data, boundaries
+# let me move this to its own script!
