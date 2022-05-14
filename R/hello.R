@@ -20,6 +20,9 @@ hello <- function() {
 
 #### attempting to generalize some functions used in my final project
 
+# NOTE: moving these to their own script --
+# discovered function "use_r("funcname")" -- from https://www.youtube.com/watch?v=gl9fFmtXFcI
+
 ## Function 1: cleaning census data:
 
 clean_census_data <- function(census_table, variable_n) {
